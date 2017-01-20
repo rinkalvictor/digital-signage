@@ -1,0 +1,241 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"post",
+				"post_list"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"Htt",
+				"HttpResponse"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/June Woo/Desktop/Angular/tryangular"
+	],
+	"file_history":
+	[
+		"/C/Users/June Woo/Desktop/python/django19/src/templates/base.html",
+		"/C/Users/June Woo/Desktop/python/django19/src/netrecapi/urls.py",
+		"/C/Users/June Woo/Desktop/python/django19/src/media/models.py",
+		"/C/Users/June Woo/Desktop/python/django19/src/schedules/models.py",
+		"/C/Users/June Woo/Desktop/python/django19/src/schedules/views.py",
+		"/C/Users/June Woo/Desktop/python/django19/src/media/admin.py",
+		"/C/Users/June Woo/Desktop/python/django19/src/schedules/admin.py",
+		"/C/Users/June Woo/Desktop/python/django19/src/projects/admin.py",
+		"/C/Users/June Woo/Desktop/python/django19/src/media/views.py",
+		"/C/Users/June Woo/Desktop/python/django19/src/templates/test.html",
+		"/C/Users/June Woo/Desktop/python/django19/src/templates/admin/base_site.html",
+		"/C/Users/June Woo/Desktop/python/django19/Lib/site-packages/django/core/management/utils.py",
+		"/C/Users/June Woo/Desktop/python/django19/src/templates/admin/index.html",
+		"/C/Users/June Woo/Desktop/python/django19/src/static/css/custom.css",
+		"/C/Users/June Woo/Desktop/python/django19/static_cdn/admin/js/custom.js",
+		"/C/Users/June Woo/Desktop/python/django19/Scripts/django-admin.py",
+		"/C/Users/June Woo/Desktop/python/django19/Lib/site-packages/django/contrib/admin/templates/admin/index.html",
+		"/C/Users/June Woo/Desktop/python/django19/Lib/site-packages/django/contrib/admin/templates/admin/base_site.html",
+		"/C/Users/June Woo/Desktop/python/django19/Lib/site-packages/django/contrib/admin/models.py",
+		"/C/Users/June Woo/Desktop/python/django19/static_cdn/admin/js/admin/DateTimeShortcuts.js",
+		"/C/Users/June Woo/Desktop/python/django19/static_cdn/admin/js/admin/RelatedObjectLookups.js",
+		"/C/Users/June Woo/Desktop/python/django19/src/media/static/js/custom.js",
+		"/C/Users/June Woo/Desktop/python/django19/static_cdn/admin/js/admin/custom.js",
+		"/C/Users/June Woo/Desktop/python/django19/src/netrecapi/settings.py",
+		"/C/Users/June Woo/Desktop/python/env1/src/posts/views.py",
+		"/C/Users/June Woo/Desktop/python/env1/src/manage.py",
+		"/C/Users/June Woo/Desktop/python/env1/Lib/site-packages/django/template/defaultfilters.py",
+		"/C/wamp64/www/wp-test01/wp-settings.php",
+		"/C/wamp64/www/wp-test01/wp-config.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\June Woo\\Desktop\\python\\django19"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Media",
+			"Schedule",
+			"JET_SIDE_MENU_CUSTOM_APPS = [\n",
+			"JET_SIDE_MENU_COMPACT ",
+			"base.html",
+			"jet",
+			"CustomIndexDashboard",
+			"delete",
+			"/$',",
+			"instance",
+			"update",
+			"obj",
+			"instance",
+			"obj",
+			"create"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tryangular.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"menu/",
+				"Lib\\site-packages\\django\\core\\management\\utils.py"
+			],
+			[
+				"base_site",
+				"Lib\\site-packages\\django\\contrib\\admin\\templates\\admin\\base_site.html"
+			],
+			[
+				"admin/index",
+				"Lib\\site-packages\\django\\contrib\\admin\\templates\\admin\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

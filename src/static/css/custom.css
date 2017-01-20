@@ -1,0 +1,8 @@
+.nav li{
+	background-color:  #337ab7;
+	max-width: 200px;
+}
+.nav li a {
+	color: #fff;
+	border-radius: 4px;
+}
